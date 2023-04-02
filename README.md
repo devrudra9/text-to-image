@@ -2,6 +2,15 @@
 <h3> This is a simple express app that converts written text into an image. </h3>
 <hr>
 
+<h2>How to run the Application: </h2>
+<hr>
+1. Download the zip file or clone the repository into the project folder. </br>
+2. Open the source code into your IDE (VScode, Atom) </br>
+3. Run `npm install` </br>
+4. Run `node index.js` or `nodemon index.js` </br>
+5. Open `localhost:3000` into the browser. </br>
+<hr>
+
 <h2>Features of the project : </h2>
 <hr>
 <h4> <li> A form that allows the user to input text. </h4>
@@ -12,11 +21,4 @@
 <h4> <li> Application handles all the error messages. </h4>
 <hr>
 
-<h2>How to run : </h2>
-<hr>
-1. Download the zip file or clone the repository into the project folder. </br>
-2. Open the source code into your IDE (VScode, Atom) </br>
-3. Run `npm install` </br>
-4. Run `node index.js` or `nodemon index.js` </br>
-5. Open `localhost:3000` into the browser. </br>
-<hr>
+
