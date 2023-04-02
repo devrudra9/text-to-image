@@ -4,7 +4,7 @@
 
 <h2>How to run the Application: </h2>
 <hr>
-1. Download the zip file or clone the repository into the project folder. </br>
+1. Download the zip file or clone the repository. </br>
 2. Open the source code into your IDE (VScode, Atom) </br>
 3. Run `npm install` </br>
 4. Run `node index.js` or `nodemon index.js` </br>
