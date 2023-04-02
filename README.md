@@ -1,4 +1,4 @@
-## This is a simple express app that converts written text into an image using the npm package `text-to-image`
+<h2> text-to-image </h2> is a simple express app that converts written text into an image.
 
 <h2> This application has feature : </h2>
 <h4> That allows users to input text into a form. </h4>
