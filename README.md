@@ -1,6 +1,7 @@
-<h1> <a href="https://texttoimage-4buf.onrender.com/" target="blank">text-to-image </a></h1>
+<h1> Deployed Project: <a href="https://texttoimage-4buf.onrender.com/" target="blank"> text-to-image </a></h1>
 <h3> This is a simple express app that converts written text into an image. </h3>
-
+<hr>
+<br>
 <h3>Features of the project as per requirement in the assignment : </h3>
 <p> <li> A form that allows the user to input text. </p>
 <p> <li> On form submission, application sends a POST request `/generateImage` to the server with the provided text input. </p>
