@@ -16,7 +16,7 @@
 <hr>
 <h4> <li> Download the zip file or clone the repository into the project folder. </h4>
 <h4> <li> Open the source code into your IDE (VScode, Atom) </h4>
-<h4> <li> Run ``npm install`` </h4>
-<h4> <li> Run `node index.js` or `nodemon index.js` </h4>
-<h4> <li> Open `http://localhost:3000/` into the browser. </h4>
+<h4> <li> Run **npm install** </h4>
+<h4> <li> Run **node index.js** or **nodemon index.js** </h4>
+<h4> <li> Open **localhost:3000** into the browser. </h4>
 <hr>
