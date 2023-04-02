@@ -1,5 +1,5 @@
-<h2> text-to-image </h2>
-This is a simple express app that converts written text into an image.
+<h1> <a href="https://texttoimage-4buf.onrender.com/" target="blank">text-to-image </a></h1>
+<h3> This is a simple express app that converts written text into an image. </h3>
 
 <h3>Features of the project as per requirement in the assignment : </h3>
 <p> <li> A form that allows the user to input text. </p>
