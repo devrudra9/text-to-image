@@ -14,9 +14,9 @@
 
 <h2>How to run : </h2>
 <hr>
-<h4> Download the zip file or clone the repository into the project folder. </h4>
-<h4> Open the source code into your IDE (VScode, Atom) </h4>
-<h4> Run ```npm install``` </h4>
-<h4> Run ```node index.js``` or ```nodemon index.js``` </h4>
-<h4> Open ```localhost:3000``` into the browser. </h4>
+Download the zip file or clone the repository into the project folder. 
+Open the source code into your IDE (VScode, Atom) 
+Run ```npm install``` 
+Run ```node index.js``` or ```nodemon index.js``` 
+Open ```localhost:3000``` into the browser. 
 <hr>
