@@ -10,6 +10,7 @@
 4. Run `node index.js` or `nodemon index.js` </br>
 5. Open `localhost:3000` into the browser. </br>
 <hr>
+<hr>
 
 <h2>Features of the project : </h2>
 <hr>
