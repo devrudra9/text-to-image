@@ -1,4 +1,5 @@
-<h1> Deployed Project : <a href="https://texttoimage-4buf.onrender.com/" target="blank"> text-to-image </a></h1>
+<h1> Deployed Project : <a href="https://texttoimage-4buf.onrender.com/" target="_blank"> text-to-image </a></h1>
+<h1> Live Demo : <a href="https://www.youtube.com/watch?v=TJiSFPaA5Ig" target="_blank"> link </a></h1>
 <h3> This is a simple express app that converts written text into an image. </h3>
 <hr>
 
