@@ -23,4 +23,8 @@
 <h4> <li> Application handles all the error messages. </h4>
 <hr>
 
+<h4> I have also added some functionalities into the client side of the application </h4>
+<p> You can align the text of the image to left right or center </p>
+<p> Also you can change color of the text, background color and fontSize too. </p>
+<p> I have kept font Family as same and have not added functionality of changing it because some of the font families were not render on the client side of the application and was genrating a warning. </p>
 
