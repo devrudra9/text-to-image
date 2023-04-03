@@ -5,11 +5,11 @@
 
 <h2>How to run the Application: </h2>
 <hr>
-1. Download the zip file or clone the repository. </br>
-2. Open the source code into your IDE (VScode, Atom) </br>
-3. Run `npm install` </br>
-4. Run `node index.js` or `nodemon index.js` </br>
-5. Open `localhost:3000` into the browser. </br>
+<h4> 1. Download the zip file or clone the repository. </h4> </br>
+<h4> 2. Open the source code into your IDE (VScode, Atom) </h4> </br>
+<h4> 3. Run `npm install` </h4> </br> 
+<h4> 4. Run `node index.js` or `nodemon index.js` </h4> </br>
+<h4> 5. Open `localhost:3000` into the browser. </h4></br>
 <hr>
 <hr>
 
@@ -22,9 +22,8 @@
 <h4> <li> The front end of hte application displays the returned image to the user. </h4>
 <h4> <li> Application handles all the error messages. </h4>
 <hr>
-
+<hr>
 <h4> I have also added some functionalities into the client side of the application </h4>
-<p> You can align the text of the image to left right or center </p>
-<p> Also you can change color of the text, background color and fontSize too. </p>
-<p> I have kept font Family as same and have not added functionality of changing it because some of the font families were not render on the client side of the application and was genrating a warning. </p>
-
+<h5> <li>You can align the text of the image to left right or center </h5>
+<h5> <li>Also you can change color of the text, background color and fontSize too. </h5>
+<h5> <li>I have kept font Family as same and have not added functionality of changing it because some of the font families were not render on the client side of the application and was genrating a warning. </h5>
